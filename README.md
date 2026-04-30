@@ -2,7 +2,7 @@
 
 **Author:** Sahil Faraz | **Date:** June 2025
 
-> **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 21: Emerging Tecnologies** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
+> **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 5: Big Data & Visualisation** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
 
 An in-depth data analysis and visualization project focused on improving decision-making procedures and operational efficiency for IBM's Big Data and Business Analytics division (Islamabad). This project transforms a raw dataset of 150 enterprise clients into strategic business intelligence using advanced data manipulation and statistical modeling.
 
@@ -69,7 +69,3 @@ The project features a comprehensive suite of visualizations to translate comple
 As a Data Specialist, handling enterprise data required strict adherence to ethical and legal frameworks:
 * **Regulatory Compliance:** Strategies were aligned with **GDPR, CCPA, and HIPAA** to ensure proper consent management, anonymization, and encryption of sensitive healthcare/financial data.
 * **AI Bias Mitigation:** Monitored algorithmic fairness to prevent biased decision-making in high-stakes areas like loan approvals or risk assessments, ensuring trust and system transparency.
-
----
-**Author:** Sahil Faraz  
-**Focus:** HND in Digital Technologies (Cybersecurity) | Unit 5: Big Data & Visualisation

@@ -8,7 +8,7 @@ An in-depth data analysis and visualization project focused on improving decisio
 
 ## 📋 Project Overview
 Data has become a strategic asset in the era of digital transformation. This project demonstrates how Data-Driven Decision Making (DDDM) empowers organizations to make smarter, faster, and more accurate decisions. By analyzing client revenue, churn risk, and AI adoption maturity, this project provides actionable insights for IBM's global operations.
-![IBM Executive Dashboard](Images/dashboard.png)
+![IBM Executive Dashboard](Images/Dashboard.png)
 
 ## 🧠 Big Data Frameworks Applied
 The analysis is grounded in the fundamental characteristics of Big Data:

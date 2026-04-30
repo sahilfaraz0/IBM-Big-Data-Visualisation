@@ -3,12 +3,12 @@
 **Author:** Sahil Faraz | **Date:** June 2025
 
 > **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 21: Emerging Tecnologies** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
----
+
 An in-depth data analysis and visualization project focused on improving decision-making procedures and operational efficiency for IBM's Big Data and Business Analytics division (Islamabad). This project transforms a raw dataset of 150 enterprise clients into strategic business intelligence using advanced data manipulation and statistical modeling.
 
 ## 📋 Project Overview
 Data has become a strategic asset in the era of digital transformation. This project demonstrates how Data-Driven Decision Making (DDDM) empowers organizations to make smarter, faster, and more accurate decisions. By analyzing client revenue, churn risk, and AI adoption maturity, this project provides actionable insights for IBM's global operations.
-![IBM Executive Dashboard](dashboard.png)
+![IBM Executive Dashboard](Images/dashboard.png)
 
 ## 🧠 Big Data Frameworks Applied
 The analysis is grounded in the fundamental characteristics of Big Data:
@@ -17,13 +17,13 @@ The analysis is grounded in the fundamental characteristics of Big Data:
 ### Scientific Formulas for the Vs of Big Data:
 | Vs of Big Data | Scientific Formula |
 |------|-----------|
-| Volume |  |
-| Velocity |  |
-| Variety |  |
-| Variability |  |
-| Veracity |  |
-| Visualization |  |
-| Value |  |
+| Volume | ![Volume](Images/Volume.png) |
+| Velocity | ![Velocity](Images/Velocity.png)  |
+| Variety | ![Variety](Images/Variety.png)  |
+| Variability | ![Variability](Images/Variability.png)  |
+| Veracity | ![Veracity](Images/Veracity.png)  |
+| Visualization | ![Visualization](Images/Visualization.png)  |
+| Value | ![Value](Images/Value.png)  |
 
 ## 🛠️ Tools & Technologies
 While industry-leading tools like Python, SQL, Power BI, and IBM Cognos Analytics were evaluated, this practical implementation was executed entirely in **Microsoft Excel** to demonstrate robust entry-level analysis, pivot aggregation, and dashboarding. 

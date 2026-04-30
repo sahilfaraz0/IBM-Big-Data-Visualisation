@@ -39,10 +39,12 @@ Advanced statistical techniques were applied to extract meaningful patterns:
 
 ### 1. Regression Analysis
 * Examined the correlation between **Monthly Subscription ($)** and **Predicted Client Lifetime Value ($)** to forecast trends.
+![Regression](Images/Regression.png)
 
 ### 2. A/B Testing
 * Compared the Total IBM Revenue Contribution between churned and non-churned clients.
 * **Result:** Non-churned average revenue ($4,108) vs. Churned average revenue ($4,292.75) yielded a p-value of **0.359109**, indicating specific revenue patterns.
+![AB-Testing](Images/AB-Testing.png)
 
 ### 3. Data Mining (High-Risk Churn Patterns)
 * Utilized `COUNTIFS` to isolate specific client behaviors. For example, finding high-risk churned clients with low satisfaction:
@@ -50,16 +52,18 @@ Advanced statistical techniques were applied to extract meaningful patterns:
 
 ### 4. Descriptive Statistics
 * Calculated aggregated metrics across regions and industries using `=SUMIF()`, `=AVERAGE()`, `=MAX()`, `=MIN()`, `=MEDIAN()`, and `=STDEV.P()`.
+![Descriptive-Statistics](Images/Descriptive-Statistics.png)
 
 ## 📊 Visualizations & Key Insights
 The project features a comprehensive suite of visualizations to translate complex data into business intelligence:
 * **Revenue Contribution by Industry (Bar Chart):** Revealed that **Healthcare ($89,826.77)** and **Government ($75,013.68)** are the most lucrative sectors.
+![Bar-Chart](Images/Bar-Chart.png)
 * **Monthly Join Trend (Line Graph):** Tracked onboarding spikes, particularly in March, October, and November.
+![Line-Graph](Images/Line-Graph.png)
 * **Client Risk & Satisfaction (Heatmap):** Color-coded matrix identifying concentrations of high-risk clients based on satisfaction scores.
+![Heatmap](Images/Heatmap.png)
 * **Client Tenure Duration (Histogram):** Illustrated retention distribution, showing strong concentrations in the 27-35 month brackets.
-
-<!-- PLACEHOLDER: Upload a screenshot of your Monthly Join Trend Line Chart here and name it 'trend.png' -->
-![Monthly Join Trend](trend.png)
+![Histogram](Images/Histogram.png)
 
 ## ⚖️ Data Governance, Compliance & Ethics
 As a Data Specialist, handling enterprise data required strict adherence to ethical and legal frameworks:
